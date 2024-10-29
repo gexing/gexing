@@ -1,2 +1,3 @@
 gexing 20241029 git init test1
 gexing 20241029 git init test2
+在Bash中，> 用于覆盖文件内容，而 >> 用于追加内容到文件末尾。
